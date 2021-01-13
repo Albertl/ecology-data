@@ -9,7 +9,7 @@ kramdown:
 permalink:        pretty
 
 # Setup
-title:            Ecology in an Era of Big Data
+title:            'Ecology in an Era of Big Data'
 description:      'Teaching the tools to get computers to do cool science'
 url:              https://albertl.github.io/ecology-data/
 baseurl:          /ecology-data
