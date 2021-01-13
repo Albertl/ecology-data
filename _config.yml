@@ -9,16 +9,16 @@ kramdown:
 permalink:        pretty
 
 # Setup
-title:            Data Carpentry for Biologists
+title:            Ecology in an Era of Big Data
 description:      'Teaching the tools to get computers to do cool science'
-url:              http://www.datacarpentry.org/semester-biology
-baseurl:          /semester-biology
-email:            datacarpentrysemester@weecology.org
-feedbackurl:      docs.google.com/forms/d/1y35uJukuZ9MPKQWWqw0Y8R4VOiaOtFJezDY_t_kJfTs/
+url:              https://albertl.github.io/ecology-data/
+baseurl:          /ecology-data
+email:            loren.albert@mail.wvu.edu
+feedbackurl:      https://forms.gle/YiFWDpbYKfMEv4Hj6
 author:
-  name:           'Ethan White'
-  url:            https://twitter.com/ethanwhite
+  name:           'Loren Albert'
+#  url:            https://twitter.com/ethanwhite
 
 github:
-  repo:           https://github.com/datacarpentry/semester-biology
+  repo:           https://github.com/Albertl/ecology-data
   #               Be sure the 'Issues' feature is activated in 'Settings'
