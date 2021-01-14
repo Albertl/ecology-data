@@ -3,7 +3,7 @@ layout: page
 title: Assignment Submission & Checklist
 ---
 
-- All assignments should be submitted through [Canvas](http://ufl.instructure.com/)
+- All assignments should be submitted through [eCampus](https://ecampus.wvu.edu)
 
 - What files to submit: 
     - **Week 1** - one text form, one .xlsx file
