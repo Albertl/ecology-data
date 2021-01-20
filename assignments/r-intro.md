@@ -21,6 +21,6 @@ points: [10, 10, 10, 10, 15, 15, 15, 15, optional]
 > - execute vector algebra
 > - import data frames and interact with columns as vectors
 
-{% include reading.html %}
+[//]: # {% include reading.html %}
 
 {% include assignment.html %}
