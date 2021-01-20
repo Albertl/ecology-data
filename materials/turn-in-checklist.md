@@ -6,9 +6,7 @@ title: Assignment Submission & Checklist
 - All assignments should be submitted through [eCampus](https://ecampus.wvu.edu)
 
 - What files to submit: 
-    - **Week 1** - one text form, one .xlsx file
-    - **Weeks 2-13** - a link to your RStudio Cloud project
-    - **Week 14** - a link to a GitHub repository
+    - **Assignments 1-12** - a link to your RStudio Cloud project
 
 
 # Code Checklist
