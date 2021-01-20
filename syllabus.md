@@ -50,3 +50,5 @@ Phone: {{ page.phone }}
 
 [//]: # The details course schedule is available on the course website at:
 [//]: # [{{ site.url }}/schedule]({{ site.baseurl }}/schedule).
+
+The detailed course schedule is available [here](https://drive.google.com/file/d/11GQqOjQnjFZQh0OQkDa6jCvdOEshhA_j/view)
