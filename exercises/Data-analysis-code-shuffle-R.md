@@ -9,7 +9,7 @@ We are interested in understanding the monthly variation in precipitation in
 Gainesville, FL. We'll use some data from the
 [NOAA National Climatic Data Center](http://www.ncdc.noaa.gov/).
 
-Each row of [the data file](https://datacarpentry.org/semester-biology/data/gainesville-precip.csv) is a year (from 1961-2013) and each column is a month
+Each row of [the data file](https://albertl.github.io/ecology-data/data/gainesville-precip.csv) is a year (from 1961-2013) and each column is a month
 (January - December).
 
 Rearrange the following program so that it:
