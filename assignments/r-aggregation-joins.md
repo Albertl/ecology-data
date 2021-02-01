@@ -12,6 +12,7 @@ points: [8, 8, 8, 9, 12, 12, 8]
 > Following this assignment students should be able to:
 >
 > - install and load an R package
+> - understand the relationship between vectors and data frames
 > - understand the data manipulation functions of `dplyr`
 > - execute a simple import and analyze data scenario
 
