@@ -3,8 +3,8 @@ layout: page
 element: assignment
 title: Grouping & Joining Data
 language: R
-exercises: ['Shrub Volume Aggregation', 'Shrub Volume Join', 'Portal Data Aggregation', 'Fix the Code', 'Portal Data Joins', 'Extracting vectors from data frames', 'Building data frames from vectors']
-points: [8, 8, 9, 12, 12, 8, 8]
+exercises: ['Extracting vectors from data frames', 'Shrub Volume Aggregation', 'Shrub Volume Join', 'Portal Data Aggregation', 'Fix the Code', 'Portal Data Joins', 'Building data frames from vectors']
+points: [8, 8, 8, 9, 12, 12, 8]
 ---
 
 #### Learning Objectives
