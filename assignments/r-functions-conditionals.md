@@ -1,7 +1,7 @@
 ---
 layout: page
 element: assignment
-title: Functions
+title: Functions and conditionals
 language: R
 exercises: ['Writing Functions', 'Use and Modify', 'Default Arguments', 'Choice Operators', 'Basic If Statements', 'Size Estimates by Name', 'Load or Download File', 'DNA or RNA', 'Unit Conversion Challenge', 'Combining Functions']
 points: [5, 10, 10, 10, 8, 12, optional, optional, optional, optional]
