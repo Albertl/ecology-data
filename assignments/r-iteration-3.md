@@ -20,7 +20,7 @@ points: [15, 15, 20, 15, 15, optional, optional, optional, optional]
 
 
 
-Note that you can CHOOSE one of the last two exercises. I recommend #4 if you are new to for loops, or #5 if you want a challenge.
+Note that you can CHOOSE one of the last two exercises (#4 or #5). I recommend #4 if you are new to for loops, or #5 if you want a challenge.
 
 Place this code at the start of the assignment to load all the required packages.
 
