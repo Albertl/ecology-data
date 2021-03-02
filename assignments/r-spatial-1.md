@@ -4,7 +4,7 @@ element: assignment
 title: Spatial Data 1
 language: R
 exercises: ['Canopy Height from Space']
-points: [100]
+points: [65]
 ---
 
 #### Learning Objectives
