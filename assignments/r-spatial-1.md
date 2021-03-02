@@ -16,7 +16,6 @@ points: [65]
 > - import, view properties, and plot vector data
 > - extract points from a `raster` using a shapefile
 
-{% include reading.html %}
 
 Place this code at the start of the assignment to load all the required packages.
 
