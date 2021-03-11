@@ -4,10 +4,9 @@ element: assignment
 title: Spatial Data 2
 language: R
 exercises: ['Harvard Forest Soils Analysis', 'Cropping NEON Data']
-points: [50, 50]
+points: [30, 30]
 ---
 
-{% include reading.html %}
 
 Place this code at the start of the assignment to load all the required packages.
 
