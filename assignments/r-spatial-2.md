@@ -3,8 +3,8 @@ layout: page
 element: assignment
 title: Spatial Data 2
 language: R
-exercises: ['Harvard Forest Soils Analysis', 'Cropping NEON Data']
-points: [30, 30]
+exercises: ['Harvard Forest Soils Analysis', 'Cropping NEON Data', 'Matrix Operations']
+points: [30, 30, 5]
 ---
 
 
